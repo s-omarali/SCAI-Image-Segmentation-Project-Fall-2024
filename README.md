@@ -1,0 +1,1 @@
+# SCAI-Image-Segmentation-Project-Fall-2024
